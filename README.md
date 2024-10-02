@@ -15,6 +15,8 @@ AWS Servic Explored:
   •	Security Groups
 	
   •	Load Balancer
+
+  •	Autoscaling
  
   •	Target group
 	
@@ -23,21 +25,35 @@ AWS Servic Explored:
   •	SNS
   
  Step1: To create a Virtual Private Cloud (VPC)
+ 
      1.	Open the Amazon VPC console.
+     
      2.	Select create VPC from the dashboard.
+     
      3.	For resources to create, choose VPC and only.
+     
      4.	Under the name tag, given the name of VPC
+     
      5.	For IPv4 CIDR block, enter an the IPv4 address range for VPC.
+     
      6.	Choose the create VPC.
      
  Step2: To create a public subnet.
+ 
      1.	From the Amazon VPC console.
+     
      2.	Select subnet from the side navigation bar.
+     
      3.	For VPC ID, select your newly created VPC.
+     
      4.For Subnet name, enter a name for your subnet.
+     
      5.For Availability zone, select a compatible availability zone.
+     
      6. For IPv4 CIDR block, enter 10.0.0.0/24
+     
      7.	 For IPv4 subnet CIDR block, enter 10.0.0.0/26
+     
      8.Click the add subnet button and create other three subnet.
 
  Step 4. Create Route table.
