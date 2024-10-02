@@ -7,13 +7,19 @@ Project Detail
 
 AWS Servic Explored:
   •	EC2
+	
   •	AMI
+	
   •	VPC
+	
   •	Security Groups
+	
   •	Load Balancer
-  •	Autoscaling
+ 
   •	Target group
+	
   •	Template
+	
   •	SNS
   
  Step1: To create a Virtual Private Cloud (VPC)
