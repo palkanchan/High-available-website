@@ -3,7 +3,8 @@ Overview
 
 Design and implented a cloud infrastructure that optimizes server efficiency by dynamically shifting requests based on load. This system alsso automates the creation of new servers in the event of a failure, ensuring high availability and reliability.
 
-![Screenshot 2024-10-01 232231](https://github.com/user-attachments/assets/2b51f4b2-80ea-4b6b-8e35-506045c0740f)
+![Screenshot 2024-10-01 232231](https://github.com/user-attachments/assets/c4280008-ea4a-4503-b950-26ed83b081c2)
+
 
 
 Project Detail
