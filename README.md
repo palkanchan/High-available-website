@@ -3,8 +3,7 @@ Overview
 
 Design and implented a cloud infrastructure that optimizes server efficiency by dynamically shifting requests based on load. This system alsso automates the creation of new servers in the event of a failure, ensuring high availability and reliability.
 
-![Screenshot 2024-10-01 232231](https://github.com/user-attachments/assets/c4280008-ea4a-4503-b950-26ed83b081c2)
-
+![Screenshot 2024-10-01 232231](https://github.com/user-attachments/assets/0cbd4a6c-1e38-4659-8fa3-c22819dbb0a1)
 
 
 Project Detail
@@ -36,7 +35,7 @@ AWS Servic Explored:
      
      3.	For resources to create, choose VPC and only.
      
-     4.	Under the name tag, given the name of VPC
+     4.	Under the name tag, given the name of VPC.
      
      5.	For IPv4 CIDR block, enter an the IPv4 address range for VPC.
      
@@ -126,7 +125,7 @@ Step 8. On Ec2 instance, deploy a website.
     
     •	Install httpd with the help of command yum install httpd.
     
-    •	Give command for start httpd systemctl start httpd and chkconfig httpd on
+    •	Give command for start httpd systemctl start httpd and chkconfig httpd on.
     
     •	Choose template from the browser and paste the link address in the server with the command wget (address).
     
@@ -219,6 +218,6 @@ Step 8. On Ec2 instance, deploy a website.
      
      9.	Choose Next.
      
-     10.Choose Next
+     10.Choose Next.
      
-     11. Add tags
+     11. Add tags.
